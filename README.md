@@ -8,7 +8,7 @@ Perfect for beginners who want to practice working with APIs, useEffect, state m
 - Displays temperature, weather status, location, and more
 - Fetches live data from OpenWeatherMap API
 - Clean and minimal UI
-- Built with plain React.js (no TypeScript)
+- Built with plain React.js
 
 ## 🛠️ Technologies Used
 - React.js
